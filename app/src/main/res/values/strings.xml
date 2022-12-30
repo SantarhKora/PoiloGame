@@ -1,6 +1,6 @@
 <resources>
     <!-- App name -->
-    <string name="app_name">Game</string>
+    <string name="app_name">Poilo Game</string>
 
     <!-- Testing flag -->
     <bool name="is_testing">true</bool>
@@ -8,22 +8,22 @@
     <!-- Banner ad configuration -->
     <bool name="enable_banner">true</bool>
     <bool name="banner_at_bottom">true</bool>
-    <bool name="banner_not_overlap">true</bool>
-    <string name="id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <bool name="banner_not_overlap">false</bool>
+    <string name="id_banner">ca-app-pub-39402560</string>
 
     <!-- Interstitial ad configuration -->
-    <bool name="enable_inter">true</bool>
+    <bool name="enable_inter">false</bool>
     <string name="id_inter">ca-app-pub-3940256099942544/1033173712</string>
 
     <!-- GDPR configuration -->
     <bool name="enable_gdpr">true</bool>
     <bool name="under_age">false</bool>
-    <string name="privacy_url">https://sites.google.com/view/gradlegames/privacy</string>
+    <string name="privacy_url">https://tumdah.com</string>
     <string name="privacy_policy">Privacy Policy</string>
-    <string name="privacy_email">gradlecode@outlook.com</string>
+    <string name="privacy_email">dulalkisku0@gmail.com</string>
 
     <!-- Share description -->
-    <string name="share_description">Try this new game</string>
+    <string name="share_description">Nowa inging benao kada</string>
 
     <!-- Full screen flag -->
     <bool name="full_screen">true</bool>
